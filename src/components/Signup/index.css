@@ -1,6 +1,19 @@
 .signup {
   /* min-height: 100vh; */
   display: flex;
+  padding: 10px;
+}
+.signup__left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9rem;
+  opacity: 0.5;
+  margin: 10px;
+}
+.image {
+  width: 70%;
 }
 
 .signup__right {
